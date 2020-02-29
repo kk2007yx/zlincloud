@@ -1,4 +1,6 @@
 # zlincloud
+智灵云加速2.0地址：www.zlincloud.com
+                                       
 
 关于智灵云加速1.0 事件处理
 
